@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on any great project
 - 📫 email me @ peterchigozirim@gmail.com
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=peterchigozirim"/>
