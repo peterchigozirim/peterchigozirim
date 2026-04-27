@@ -88,18 +88,6 @@ I design systems with:
 
 ---
 
-## 📊 GitHub Stats
-
-> Replace `peterchigozirim` with your actual GitHub username
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?peterchigozirim=your-peterchigozirim\&show_icons=true\&theme=default\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=your-peterchigozirim\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?peterchigozirim=your-peterchigozirim\&layout=compact\&hide_border=true)
-
----
-
 ## 🤝 Let’s Connect
 
 * 💼 Open to collaborations and serious projects
